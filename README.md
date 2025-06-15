@@ -55,9 +55,7 @@ Replace these with your actual screenshots
 
 
 📦 Project Structure
-bash
-Copy
-Edit
+
 drawing-board/
 │
 ├── index.html         # Main HTML
@@ -102,19 +100,3 @@ Subhadip Das
 B.Tech CSE, KIIT Bhubaneswar
 📧 subhadipdas713151@gmail.com
 
-📝 License
-This project is open-source and free to use under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want:
-
-- 🧪 A `main.py` FastAPI backend stub for save/load
-- 🌐 A hosted demo setup
-- 📱 PWA manifest & service worker
-
-I can also generate badges (like GitHub stars, MIT license, etc.) if you're pushing this to GitHub.
